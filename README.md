@@ -1,11 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/micro)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/micro?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/micro?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/_9oK9CKuaeI?style=social)](https://youtu.be/_9oK9CKuaeI)
-
   <br />
   <br />
   
@@ -15,7 +9,7 @@
 
   Micro is a fully responsive Podcast website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/micro/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Maitomanito"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -39,18 +33,18 @@ To install **Micro**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/micro.git
+sudo git clone https://github.com/Maitomanito
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/micro.git
+git clone https://github.com/Maitomanito
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/donmaurom).
 
 ### License
 
